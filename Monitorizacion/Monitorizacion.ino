@@ -1,8 +1,8 @@
 #include "WiFi.h"
 #include "DHT.h"
  
-const char* ssid = "ONOA2F9"; //introduce the credentials
-const char* password =  "hCNYeM3RbGK2";
+const char* ssid = ""; //introduce the credentials
+const char* password =  "";
 int lightPin = 23; 
 int temperaturePin = 22; 
 int detectionPin = 1; 
